@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Somteko
-- 👀 I’m interested in introxuction to generative ai...
+- 👀 I’m interested in introduction to generative ai...
 - 🌱 I’m currently learning how to get started
 - 💞️ I’m looking to collaborate on practical applications of ai
 - 📫 How to reach me . by direct messaging 
